@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "clay-plant-pot",
+    "title": "Clay Plant Pot",
+    "description": "<p>Classic blown clay pot for plants</p>",
+    "price": 9.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/single-sprout-in-a-pot_925x.jpg"
+    ],
+    "tags": [
+      "Pot, Plants"
+    ]
+  },
+  {
+    "slug": "clay-plant-pot",
+    "title": "",
+    "description": "",
+    "price": 15.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/pot-with-a-single-sprout_925x.jpg"
+    ],
+    "tags": []
+  },
+  {
+    "slug": "copper-light",
+    "title": "Copper Light",
+    "description": "<p>Stylish copper bedside light</p>",
+    "price": 59.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/copper-light-in-bedroom_925x.jpg"
+    ],
+    "tags": [
+      "Copper, Bedroom"
+    ]
+  },
+  {
+    "slug": "cream-sofa",
+    "title": "Cream Sofa",
+    "description": "<p>Comfortable cream sofa with wooden base</p>",
+    "price": 500,
+    "images": [
+      "https://burst.shopifycdn.com/photos/condominium-interior-livingroom_925x.jpg"
+    ],
+    "tags": [
+      "Couch, Wood"
+    ]
+  },
+  {
+    "slug": "antique-drawers",
+    "title": "Antique Drawers",
+    "description": "<p>Antique wooden chest of drawers</p>",
+    "price": 250,
+    "images": [
+      "https://burst.shopifycdn.com/photos/babys-room_925x.jpg"
+    ],
+    "tags": [
+      "Antique, Bedroom"
+    ]
+  },
+  {
+    "slug": "white-bed-clothes",
+    "title": "White Bed Clothes",
+    "description": "<p>Sleek white bed clothes</p>",
+    "price": 29.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/bright-hotel-room-bed_925x.jpg"
+    ],
+    "tags": [
+      "Bed"
+    ]
+  },
+  {
+    "slug": "pink-armchair",
+    "title": "Pink Armchair",
+    "description": "<p>Stylish pink armchair</p>",
+    "price": 750,
+    "images": [
+      "https://burst.shopifycdn.com/photos/soft-pink-cushioned-armchair-in-stately-salon_925x.jpg"
+    ],
+    "tags": [
+      "Chair"
+    ]
+  },
+  {
+    "slug": "wooden-outdoor-table",
+    "title": "Wooden Outdoor Table",
+    "description": "<p>Chic wooden outdoor garden table</p>",
+    "price": 99.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/cafe-patio_925x.jpg"
+    ],
+    "tags": [
+      "Wood, Garden"
+    ]
+  },
+  {
+    "slug": "brown-throw-pillows",
+    "title": "Brown Throw Pillows",
+    "description": "<p>Stylish brown throw pillows</p>",
+    "price": 19.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/bedroom-bed-with-brown-throw-pillows_925x.jpg"
+    ],
+    "tags": [
+      "Pillows"
+    ]
+  },
+  {
+    "slug": "white-ceramic-pot",
+    "title": "White Ceramic Pot",
+    "description": "<p>Homemade white ceramic flower pot</p>",
+    "price": 15.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/house-plant-in-white-pot_925x.jpg"
+    ],
+    "tags": [
+      "Pot, Plants"
+    ]
+  },
+  {
+    "slug": "yellow-watering-can",
+    "title": "Yellow watering can",
+    "description": "<p>Vintage vibrant watering can</p>",
+    "price": 40.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/flowers-in-yellow-watering-can_925x.jpg"
+    ],
+    "tags": [
+      "Plants"
+    ]
+  },
+  {
+    "slug": "gardening-hand-trowel",
+    "title": "Gardening hand trowel",
+    "description": "<p>Metal gardening hand trowel with wooden handle</p>",
+    "price": 10.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/spring-gardening-set-up_925x.jpg"
+    ],
+    "tags": [
+      "Plants"
+    ]
+  },
+  {
+    "slug": "biodegradable-cardboard-pots",
+    "title": "Biodegradable cardboard pots",
+    "description": "<p>Biodegradable outdoor cardboard pots</p>",
+    "price": 10,
+    "images": [
+      "https://burst.shopifycdn.com/photos/potted-seeds_925x.jpg"
+    ],
+    "tags": [
+      "Garden, Plants"
+    ]
+  },
+  {
+    "slug": "grey-sofa",
+    "title": "Grey Sofa",
+    "description": "<p>Large four seater grey sofa</p>",
+    "price": 29.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/large-grey-sofa-by-brick-wall_925x.jpg"
+    ],
+    "tags": [
+      "Sofa"
+    ]
+  },
+  {
+    "slug": "wooden-outdoor-slats",
+    "title": "Wooden outdoor slats",
+    "description": "<p>Wooden outdoor fencing slats</p>",
+    "price": 25.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/house-plant-on-wooden-slat-wall_925x.jpg"
+    ],
+    "tags": [
+      "Wood, Garden"
+    ]
+  },
+  {
+    "slug": "wooden-fence",
+    "title": "Wooden Fence",
+    "description": "<p>Wooden garden fence</p>",
+    "price": 200,
+    "images": [
+      "https://burst.shopifycdn.com/photos/picket-fence-flowers_925x.jpg"
+    ],
+    "tags": [
+      "Garden, Wood"
+    ]
+  },
+  {
+    "slug": "yellow-sofa",
+    "title": "Yellow Sofa",
+    "description": "<p>Two seater yellow sofa with wooden legs</p>",
+    "price": 99.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/yellow-couch-by-black-and-white-mural_925x.jpg"
+    ],
+    "tags": [
+      "Sofa"
+    ]
+  },
+  {
+    "slug": "knitted-throw-pillows",
+    "title": "Knitted Throw Pillows",
+    "description": "<p>Homemade knitted throw pillows in a variety of colors</p>",
+    "price": 19.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/yellow-sofa-with-throw-pillows_925x.jpg"
+    ],
+    "tags": [
+      "Pillows"
+    ]
+  },
+  {
+    "slug": "vanilla-candle",
+    "title": "Vanilla candle",
+    "description": "<p>Vanilla scent candle in jar</p>",
+    "price": 15.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/diy-organic-candle_925x.jpg"
+    ],
+    "tags": [
+      "Candle"
+    ]
+  },
+  {
+    "slug": "black-bean-bag",
+    "title": "Black Beanbag",
+    "description": "<p>Black leather beanbag</p>",
+    "price": 69.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/comfortable-living-room-cat_925x.jpg"
+    ],
+    "tags": [
+      "Black, Leather"
+    ]
+  },
+  {
+    "slug": "bedside-table",
+    "title": "Bedside Table",
+    "description": "<p>Wooden bedside table</p>",
+    "price": 69.99,
+    "images": [
+      "https://burst.shopifycdn.com/photos/dark-wall-bedside-table_925x.jpg"
+    ],
+    "tags": [
+      "Wood, Bedroom"
+    ]
+  }
+]

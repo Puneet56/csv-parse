@@ -1,0 +1,201 @@
+[
+	{
+		"slug": "chain-bracelet",
+		"title": "7 Shakra Bracelet",
+		"description": "7 chakra bracelet, in blue or black.",
+		"price": 42.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/7-chakra-bracelet_925x.jpg",
+			"https://burst.shopifycdn.com/photos/navy-blue-chakra-bracelet_925x.jpg"
+		],
+		"tags": ["Beads"]
+	},
+	{
+		"slug": "leather-anchor",
+		"title": "Anchor Bracelet Mens",
+		"description": "Black leather bracelet with gold or silver anchor for men.",
+		"price": 69.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/anchor-bracelet-mens_925x.jpg",
+			"https://burst.shopifycdn.com/photos/anchor-bracelet-for-men_925x.jpg",
+			"https://burst.shopifycdn.com/photos/leather-anchor-bracelet-for-men_925x.jpg"
+		],
+		"tags": ["Anchor, Gold, Leather, Silver"]
+	},
+	{
+		"slug": "bangle-bracelet",
+		"title": "Bangle Bracelet",
+		"description": "Gold bangle bracelet with studded jewels.",
+		"price": 39.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/bangle-bracelet-with-jewels_925x.jpg"
+		],
+		"tags": ["Diamond, Gem, Gold"]
+	},
+	{
+		"slug": "bangle-bracelet-with-feathers",
+		"title": "Boho Bangle Bracelet",
+		"description": "Gold boho bangle bracelet with multicolor tassels.",
+		"price": 42.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/bangle-bracelet-with-feathers_925x.jpg"
+		],
+		"tags": ["Gold"]
+	},
+	{
+		"slug": "boho-earrings",
+		"title": "Boho Earrings",
+		"description": "Turquoise globe earrings on 14k gold hooks.",
+		"price": 27.99,
+		"images": ["https://burst.shopifycdn.com/photos/boho-earrings_925x.jpg"],
+		"tags": ["Silver, Turquoise"]
+	},
+	{
+		"slug": "choker-with-bead",
+		"title": "Choker with Bead",
+		"description": "Black choker necklace with 14k gold bead.",
+		"price": 14.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/black-choker-with-bead_925x.jpg"
+		],
+		"tags": ["Gold, Leather"]
+	},
+	{
+		"slug": "choker-with-gold-pendant",
+		"title": "Choker with Gold Pendant",
+		"description": "Black cord choker with gold pendant. Beautifully died black leather shapes a choker necklace with findings of 14k yellow gold, displaying gold pendant in a gorgeous balance of dark and light, delicate and strong.<ul>\n<li>14k yellow gold</li>\n<li>Leather</li>\n<li>Length, 12\" with 2.5\" extender</li>\n<li>Width, 0.3\"</li>\n<li>Lobster clasp</li>\n<li>Made in USA</li>\n</ul>",
+		"price": 29.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/choker-with-gold-pendant_925x.jpg"
+		],
+		"tags": ["Choker, Gold, Leather, Pendant"]
+	},
+	{
+		"slug": "choker-with-triangle",
+		"title": "Choker with Triangle",
+		"description": "Black choker with silver triangle pendant.",
+		"price": 47.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/choker-with-triangle_925x.jpg"
+		],
+		"tags": ["Leather, Silver, Triangle"]
+	},
+	{
+		"slug": "dainty-gold-neclace",
+		"title": "Dainty Gold Necklace",
+		"description": "Dainty gold necklace with two pendants.",
+		"price": 63.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/dainty-gold-necklace_925x.jpg"
+		],
+		"tags": ["Gold, Pendant"]
+	},
+	{
+		"slug": "dreamcatcher-pendant-necklace",
+		"title": "Dreamcatcher Pendant Necklace",
+		"description": "Turquoise beaded dream catcher necklace. Silver feathers adorn this beautiful dream catcher, which move and twinkle as you walk.",
+		"price": 23.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/dreamcatcher-pendant-necklace_925x.jpg"
+		],
+		"tags": ["Dreamcatcher, Pendant, Silver, Turquoise"]
+	},
+	{
+		"slug": "galaxy-earrings",
+		"title": "Galaxy Earrings",
+		"description": "One set of galaxy earrings, with sterling silver clasps.",
+		"price": 37.99,
+		"images": ["https://burst.shopifycdn.com/photos/galaxy-earrings_925x.jpg"],
+		"tags": ["Blue, Galaxy, Silver"]
+	},
+	{
+		"slug": "gemstone",
+		"title": "Gemstone Necklace",
+		"description": "<p>Gemstone pendant, housed in sterling silver, with sterling silver chain.</p>\n<ul>\n<li>Sterling silver chain, 14 inches</li>\n<li>Turquoise or Quartz</li>\n<li>Boho Chic</li>\n<li>Made in USA</li>\n</ul>",
+		"price": 27.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/blue-gemstone-pendant_925x.jpg"
+		],
+		"tags": ["Blue, Gem, Purple, Silver, Turquoise"]
+	},
+	{
+		"slug": "gold-bird-necklace",
+		"title": "Gold Bird Necklace",
+		"description": "14k Gold delicate necklace, with bird between two chains.",
+		"price": 79.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/gold-bird-necklace_925x.jpg"
+		],
+		"tags": ["Bird, Gold"]
+	},
+	{
+		"slug": "looped-earrings",
+		"title": "Gold Elephant Earrings",
+		"description": "Small 14k gold elephant earrings, with opal ear detail.",
+		"price": 54.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/elephant-earrings_925x.jpg"
+		],
+		"tags": ["Gold, Silver"]
+	},
+	{
+		"slug": "guardian-angel-earrings",
+		"title": "Guardian Angel Earrings",
+		"description": "Sterling silver guardian angel earrings with diamond gemstones.",
+		"price": 19.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/guardian-angel-earrings_925x.jpg"
+		],
+		"tags": ["Angel, Silver"]
+	},
+	{
+		"slug": "moon-charm-bracelet",
+		"title": "Moon Charm Bracelet",
+		"description": "Moon 14k gold chain friendship bracelet.",
+		"price": 47.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/womens-hand-moon-bracelet-_925x.jpg"
+		],
+		"tags": ["Gold, Moon"]
+	},
+	{
+		"slug": "origami-crane-necklace",
+		"title": "Origami Crane Necklace",
+		"description": "Sterling silver origami crane necklace.",
+		"price": 75.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/origami-crane-necklace-gold_925x.jpg"
+		],
+		"tags": ["Crane, Origami, Silver"]
+	},
+	{
+		"slug": "pretty-gold-necklace",
+		"title": "Pretty Gold Necklace",
+		"description": "14k gold and turquoise necklace. Stunning beaded turquoise on gold and pendant filled double chain design.",
+		"price": 44.95,
+		"images": [
+			"https://burst.shopifycdn.com/photos/pretty-gold-necklace_925x.jpg"
+		],
+		"tags": ["Gold, Turquoise"]
+	},
+	{
+		"slug": "silver-threader-necklace",
+		"title": "Silver Threader Necklace",
+		"description": "Sterling silver chain thread through circle necklace.",
+		"price": 14.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/silver-threader-necklace_925x.jpg"
+		],
+		"tags": ["Silver"]
+	},
+	{
+		"slug": "stylish-summer-neclace",
+		"title": "Stylish Summer Necklace",
+		"description": "Double chained gold boho necklace with turquoise pendant.",
+		"price": 44.99,
+		"images": [
+			"https://burst.shopifycdn.com/photos/stylish-summer-necklace_925x.jpg"
+		],
+		"tags": ["Gold, Turquoise"]
+	}
+]
